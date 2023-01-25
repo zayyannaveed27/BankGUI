@@ -1,2 +1,2 @@
-# bank_app
+# Banking application
 Basic banking application with GUI
