@@ -1,4 +1,4 @@
-# Bank GUI Application README
+# Bank GUI Application
 
 ## Introduction
 
